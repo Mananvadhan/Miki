@@ -1,11 +1,4 @@
-            cursor: pointer;
-            font-size: 1em;
-            margin-top: 30px;
-        }
-        .button:hover {
-            background-color: #ff1493;
-        }
-    </style>
+
 </head>
 <body>
     <h1>To My Niki</h1>
